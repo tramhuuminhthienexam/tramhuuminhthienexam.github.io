@@ -1,0 +1,316 @@
+@charset "utf-8";
+.navbar-default .navbar-brand {
+	height: 50px;
+}
+.navbar-default .navbar-brand img{
+	height: 30px;
+	width: auto;
+	padding: 0;
+	margin: 0;
+}
+.fa-phone-alt{
+	color: aliceblue
+}
+.fa-facebook-f{
+	color: white;
+}
+.float-right{
+	float: right;
+}
+.float-left{
+	float: left;
+}
+.logo-footer{
+	height: 30px;
+	width: auto;
+}
+.bg-yellow{
+	background-color: #F2C94C;
+}
+.mg-bottom{
+	margin-bottom: 20px
+}
+.mg-top{
+	margin-top: 20px;
+}
+.mg-left{
+	margin-left: 20px;
+}
+.mg-right{
+	margin-right: 20px;
+}
+.text-yellow{
+	color: #F2C94C;
+}
+.text-white{
+	color: white;
+}
+.phanmau{
+	height: 6vh;
+}
+.glyphicon:hover{
+	color: #F2C94C;
+}
+.bg-white{
+	background-color: white;
+}
+.border-none{
+	border: none;
+}
+.h4aboutus{
+	font-weight: bold;
+}
+.font-bold{
+	font-weight: bold;
+}
+.banner{
+	background-image: url("../img/pageheader.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: white;
+}
+.text-white{
+	color: white;	
+}
+.bg-blue{
+	background-color: #2F80ED;
+}
+.btn-banner{
+	border: none;
+	color: white;
+	background-color: #2F80ED;
+	margin-bottom: 5%;
+}
+.btn-banner:hover{
+	background-color: #F2C94C;
+}
+.pdle{
+	padding: 15px;
+}
+.cansidebar a, .canvechungtoi a{
+	text-decoration: none;
+	color: black;
+	line-height: 3;
+}
+.nutphai{
+	color: #F25252;
+}
+.nutphai:hover{
+	color: #FFC113;
+}
+.ngaythang{
+	color: #F25252;
+	font-size: 12px;
+}
+.chucomment{
+	font-size: 12px;
+}
+.maunenxanhnhat{
+	background-color: #F8FAF5;
+}
+.ndvechungtoi{
+	padding-top:15%;
+	padding-left: 5%;
+}
+.navbar{
+	margin-bottom: 0;
+}
+.about-us{
+	margin: 40px 0;
+}
+.gachngang{
+	height: 10px;
+	background-color: #C4C4C4;
+}
+.ndtieudedichvu{
+	width: 40%;	
+}
+.tieudetungdichvu:hover{
+	color: #F2C94C;
+}
+body{
+	background-color: #E5E5E5;
+}
+.bg-lydo{
+	background-image: url("../img/about-pic-2.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: right;
+}
+.ndlydo{
+	padding-top: 10%;
+	padding-bottom: 10%;
+}
+.nxemthem{
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+.text-black{
+	color: black;
+}
+.camnhan .carousel-inner > .item{
+	min-height: 300px; 
+	background:#F8FAF5;
+}
+.khongbong{
+	text-shadow: none;
+}
+.camnhan .carousel-indicators li{
+	background-color: white;
+	border: thin solid #C4C4C4;
+}
+.camnhan .carousel-indicators li:hover{
+	background-color: #F2C94C;
+}
+.hinhcamnhan{
+	border-radius: 50%;
+}
+.ndcamnhan{
+	width: 40%;
+}
+.bopd{
+	padding-left: 0;
+}
+.tieudetintuc:hover{
+	color: #F2C94C;
+}
+.tintuc{
+	margin-bottom: 5%;
+}
+.bg-template{
+	background-color: #E5E5E5;
+}
+.doingu{
+	margin: 5% 0;
+}
+.tintuc img{
+	width: 100%;
+}
+.tincuoi{
+	margin-top: 5%;
+}
+.gachnho{
+	height: 1px;
+	background-color: #C4C4C4;
+}
+.quote{
+	background-color: #F1F7EF;
+}
+.pd-left{
+	padding-left: 20px;
+}
+.pd-right{
+	padding-right: 20px;
+}
+.pd-all{
+	padding: 20px;
+}
+.nutchuyentrang{
+  background-color: #666666;
+  color: white;
+	border-radius: 5px;
+}
+.nutchuyentrang:hover{
+	background: #056CB6;
+	color: white;
+}
+.chuyentrang a {
+  text-decoration: none;
+  display: inline-block;
+  padding: 8px 16px;
+}
+.font-italic{
+	font-style: italic;
+}
+.gachdoc{
+	height: 40px;
+	width: 3px;
+	background-color: #AFAFAF;
+	margin-top: 0;
+	margin-bottom: 0;
+	margin-right: 0;
+}
+.baivietlienquan a{
+	color: black;
+	text-decoration: none;
+}
+.baivietlienquan a:hover{
+	color: #F2C94C;
+}
+.font-nho{
+	font-size: 10px;
+}
+.baivietlienquan p{
+	padding-top: 10px;
+}
+.chunhathon{
+	color: #959595;
+}
+.ndbinhluan{
+	margin-left: 20%;
+	font-size: 15px!important;
+	padding-bottom: 20px;
+}
+.ngay-thang-nhat{
+	color: #B8B8B8;
+}
+.khung-comments{
+	width: 100%;
+	resize: none;
+	height: 100px;
+}
+.khung-viet-ten{
+	width: 100%;
+}
+.chua-viet-website{
+	padding-top: 5px;
+}
+.bo-pd-left{
+	padding-left: 0;
+}
+.bo-pd-right{
+	padding-right: 0;
+}
+.dai-tren{
+	padding-top: 4px;
+}
+.tungdichvu p{
+	padding-left: 5px;
+	padding-right: 5px;
+	text-align: center;
+}
+@media only screen and (max-width: 992px) and (min-width: 768px){
+	.navbar > .container-fluid .navbar-brand{
+		margin-left: 280px;
+	}	
+	.navbar-right{
+		margin-right: 0;
+	}
+	.nav > li > a{
+		font-size: 13px;
+	}
+	.ndtieudedichvu{
+		width: 70%;
+	}
+	.camnhan .carousel-inner > .item{
+		min-height: 320px;
+	}
+	.ndvechungtoi{
+		padding-top: 0;
+	}
+}
+@media only screen and (max-width: 768px){
+	.camnhan .carousel-inner > .item{
+		min-height: 410px;
+	}
+	.mg-iphone{
+		margin-left: 10px;
+	}
+	.ndvechungtoi{
+		padding-left: 0px;
+	}
+	.tungdichvu p{
+	padding-left: 20px;
+	padding-right: 20px;
+}
+}
